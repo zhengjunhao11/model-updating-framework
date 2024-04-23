@@ -1,13 +1,13 @@
 # Model-updating-framework
 :bulb: A program framework suitable for model updating of complex structures based on parallel computing.
 
-:loudspeaker: Introduece
+:loudspeaker: Introduce
 =====
-Based on the open-source software OpenSees and Python, a program framework suitable for the model updating of complex structures was proposed. Firstly, an efficient parallel optimization algorithm for FE model updating (FEMU) of complex civil structures was developed in Python. Then, the program interfaces were developed to link the model analysis module and the parallel computing module to realize the parallel analysis and FEMU of complex structures. On this basis, the damage identification of a simply-supported beam was taken as an example to validate the feasibility and accuracy of the program framework.
+Based on the open-source software OpenSees and Python, a program framework suitable for the model updating of complex structures was proposed. Firstly, an efficient parallel optimization algorithm for FE model updating (FEMU) of complex civil structures was developed in Python. Then, the program interfaces were developed to link the model analysis module and the parallel computing module to realize the parallel analysis and FEMU of complex structures. On this basis, the damage identification of a simply supported beam was taken as an example to validate the feasibility and accuracy of the program framework.
 
 :memo: Install
 ========
-Download the file includes the **simply supported beam(TCL file)** and **program framework code**.
+Download the file that includes the **simply supported beam(TCL file)** and **program framework code**.
 
 
 :memo: Framework Components
